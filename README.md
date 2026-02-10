@@ -2,10 +2,12 @@
 
 <div align="right">
 
-| [🇪🇸 Español](#hey-there-ims-estiven-) | [🇬🇧 English](https://translate.google.com/translate?sl=es&tl=en&u=https://github.com/TU_USUARIO/EstiXD) |
+| [🇪🇸 Español](https://translate.google.com/translate?sl=en&tl=es&u=https://raw.githubusercontent.com/EstiXD/EstiXD/main/README.md) | [🇬🇧 English](#hey-there-ims-estiven-) | [🇨🇴 Colombia](#hey-there-ims-estiven-) |
 |:---:|:---:|
 
 </div>
+
+---
 
 <img alt="Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
@@ -15,17 +17,17 @@
 
 ### 👨🏻‍💻 About Me
 
-💡 Autodidacta apasionado por la tecnología, la automatización y resolver problemas reales.  
+💡 Self-taught passionate about technology, automation, and solving real-world problems.
 
-🚀 Me gusta enfrentar retos técnicos, aprender cosas nuevas todos los días y construir soluciones prácticas.
+🚀 I enjoy tackling technical challenges, learning new things every day, and building practical solutions.
 
-🧠 Trabajo principalmente con bases de datos, backend, APIs y automatizaciones (SQL, Supabase, Apps Script, etc).
+🧠 I mainly work with databases, backend, APIs, and automations (SQL, Supabase, Apps Script, etc).
 
-🌱 Actualmente profundizando en arquitectura de sistemas, IA aplicada y optimización de procesos.
+🌱 Currently diving deep into systems architecture, applied AI, and process optimization.
 
-✍️ En mi tiempo libre exploro nuevas herramientas, pruebo ideas y desarrollo proyectos personales.
+✍️ In my free time, I explore new tools, test ideas, and develop personal projects.
 
-💬 Siempre abierto a colaborar, intercambiar ideas o ayudar en proyectos tech.
+💬 Always open to collaborating, exchanging ideas, or helping with tech projects.
 
 ---
 
@@ -54,9 +56,15 @@
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstiXD&show_icons=true&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstiXD&layout=compact&theme=algolia"/>
 </p>
+
+---
+
+### 🇨🇴 About Colombia
+
+Proudly built from Colombia 🇨🇴
 
 ---
 
