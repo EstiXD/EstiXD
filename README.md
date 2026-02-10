@@ -1,13 +1,45 @@
 ![Banner](./img/ESTIX.jpeg)
 
-<div align="right">
+<div align="right" id="language-selector">
 
-| [🇪🇸 Español](https://translate.google.com/translate?sl=en&tl=es&u=https://raw.githubusercontent.com/EstiXD/EstiXD/main/README.md) | [🇬🇧 English](#hey-there-ims-estiven-) | [🇨🇴 Colombia](#hey-there-ims-estiven-) |
+| [🇨🇴 Español](#) | [🇬🇧 English](#) |
 |:---:|:---:|
 
 </div>
 
----
+<div id="google_translate_element" style="display:none;"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const langSelector = document.getElementById('language-selector');
+  const links = langSelector.querySelectorAll('a');
+  
+  links[0].addEventListener('click', function(e) {
+    e.preventDefault();
+    changeLanguage('es');
+  });
+  
+  links[1].addEventListener('click', function(e) {
+    e.preventDefault();
+    changeLanguage('en');
+  });
+});
+
+function changeLanguage(lang) {
+  var lang_select = document.querySelector('.goog-te-combo');
+  if(lang_select) {
+    lang_select.value = lang;
+    lang_select.dispatchEvent(new Event('change'));
+  }
+}
+</script>
 
 <img alt="Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
@@ -59,12 +91,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstiXD&show_icons=true&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstiXD&layout=compact&theme=algolia"/>
 </p>
-
----
-
-### 🇨🇴 About Colombia
-
-Proudly built from Colombia 🇨🇴
 
 ---
 
