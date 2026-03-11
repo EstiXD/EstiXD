@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d8fff,100:38a8ff&height=250&section=header&text=Estiven%20Carvajal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%26%20Automation%20Designer&descSize=20&descAlignY=52&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:0d8fff,100:38a8ff&amp;height=250&amp;section=header&amp;text=Estiven%20Carvajal&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20%7C%20Automation%20Designer&amp;descSize=20&amp;descAlignY=52&amp;descAlign=50" width="100%" />
 
 <a href="https://estix-dev-portfolio.netlify.app/">
   <img src="./img/ESTIX.jpeg" alt="Estiven Carvajal" width="170" />
@@ -13,22 +13,22 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=0D8FFF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%9A%80+Building+modern+web+apps;%F0%9F%A4%96+Automating+workflows+%26+processes;%F0%9F%92%A1+Turning+ideas+into+real+solutions;%F0%9F%8C%8E+Based+in+Colombia+%7C+Open+to+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=0D8FFF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=%F0%9F%9A%80+Building+modern+web+apps;%F0%9F%A4%96+Automating+workflows+and+processes;%F0%9F%92%A1+Turning+ideas+into+real+solutions;%F0%9F%8C%8E+Based+in+Colombia+%7C+Open+to+work" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2_Available_to_Work-00C853?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2_Available_to_Work-00C853?style=for-the-badge&amp;labelColor=0a0a0a" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=EstiXD&color=0d8fff&style=for-the-badge&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=EstiXD&amp;color=0d8fff&amp;style=for-the-badge&amp;label=VISITORS" />
 
 <br/><br/>
 
-<a href="https://estix-dev-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-0d8fff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/estiven-alejandro-carvajal-mu%C3%B1oz-1059474511e/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:estivencarvajalm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/EstiXD"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://wa.me/3028462917"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://estix-dev-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-0d8fff?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/estiven-alejandro-carvajal-mu%C3%B1oz-1059474511e/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;
+<a href="mailto:estivencarvajalm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>&nbsp;
+<a href="https://github.com/EstiXD"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>&nbsp;
+<a href="https://wa.me/3028462917"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" /></a>
 
 </div>
 
@@ -85,7 +85,7 @@ Specialized in **full stack web development** and **process automation**, applyi
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
 <h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26" />&nbsp;
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="26" />&nbsp;
   Tech Stack
 </h2>
 
@@ -98,9 +98,9 @@ Specialized in **full stack web development** and **process automation**, applyi
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,ts&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=python,cs&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts&amp;theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=python,cs&amp;theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css&amp;theme=dark" />
 
 </td>
 <td align="center" valign="top" width="25%">
@@ -109,32 +109,32 @@ Specialized in **full stack web development** and **process automation**, applyi
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=react,astro&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=tailwind,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs&amp;theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=react,astro&amp;theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,npm&amp;theme=dark" />
 
 </td>
 <td align="center" valign="top" width="25%">
 
-**Databases & Deploy**
+**Databases &amp; Deploy**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=supabase,vercel&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=netlify,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&amp;theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=supabase,vercel&amp;theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=netlify,docker&amp;theme=dark" />
 
 </td>
 <td align="center" valign="top" width="25%">
 
-**Tools & Automation**
+**Tools &amp; Automation**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" /><br/>
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github&amp;theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=vscode,figma&amp;theme=dark" /><br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&amp;logo=n8n&amp;logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" height="28" />
 
 </td>
 </tr>
@@ -144,19 +144,17 @@ Specialized in **full stack web development** and **process automation**, applyi
 <details>
 <summary align="center"><b>&nbsp;&nbsp;View Skill Levels&nbsp;&nbsp;</b></summary>
 <br/>
-<div align="center">
 
 | Technology | Level | | Technology | Level |
 |:---|:---|:---|:---|:---|
-| HTML5 | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-0d8fff?style=flat-square) **90%** | | Tailwind CSS | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** |
-| JavaScript | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **85%** | | Next.js | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-38a8ff?style=flat-square) **75%** |
-| CSS3 | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **85%** | | React | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-38a8ff?style=flat-square) **65%** |
-| Python | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** | | GitHub | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **85%** |
-| TypeScript | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-38a8ff?style=flat-square) **75%** | | Vercel | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** |
-| SQL | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** | | RESTful APIs | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** |
-| Node.js | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** | | n8n | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-38a8ff?style=flat-square) **70%** |
+| HTML5 | ![90%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-0d8fff?style=flat-square) **90%** | | Tailwind CSS | ![80%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** |
+| JavaScript | ![85%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **85%** | | Next.js | ![75%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-38a8ff?style=flat-square) **75%** |
+| CSS3 | ![85%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **85%** | | React | ![65%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-38a8ff?style=flat-square) **65%** |
+| Python | ![80%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** | | GitHub | ![85%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **85%** |
+| TypeScript | ![75%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-38a8ff?style=flat-square) **75%** | | Vercel | ![80%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** |
+| SQL | ![80%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** | | RESTful APIs | ![80%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** |
+| Node.js | ![80%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** | | n8n | ![70%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-38a8ff?style=flat-square) **70%** |
 
-</div>
 </details>
 
 <br/>
@@ -179,23 +177,23 @@ Specialized in **full stack web development** and **process automation**, applyi
 <h3><a href="https://bookflix-nine.vercel.app/">BookFliX</a></h3>
 <img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
 <br/><br/>
-Free digital library with a <b>Netflix-style</b> interface to discover, upload, and read books & PDFs online.
+Free digital library with a <b>Netflix-style</b> interface to discover, upload, and read books and PDFs online.
 <br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=fff" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=next.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=fff" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=fff" />
 </td>
 <td align="center" width="50%">
-<h3><a href="https://dashboard-ia-skydropx.vercel.app/login">Dashboard QA — Skydropx</a></h3>
+<h3><a href="https://dashboard-ia-skydropx.vercel.app/login">Dashboard QA - Skydropx</a></h3>
 <img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
 <br/><br/>
 Quality control dashboard with <b>ticket analysis</b>, real-time metrics and KPIs for tracking.
 <br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=next.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=fff" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=fff" />
 </td>
 </tr>
 <tr>
@@ -203,12 +201,12 @@ Quality control dashboard with <b>ticket analysis</b>, real-time metrics and KPI
 <h3><a href="https://huevos-semicriollos.vercel.app/">Huevos Semicriollos</a></h3>
 <img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
 <br/><br/>
-E-commerce for selling <b>fresh & natural eggs</b> in Bogota with daily home delivery.
+E-commerce for selling <b>fresh and natural eggs</b> in Bogota with daily home delivery.
 <br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=css3&logoColor=fff" />
-<img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=fff" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=next.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000" />
+<img src="https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=fff" />
+<img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&amp;logo=google&amp;logoColor=fff" />
 </td>
 <td align="center" width="50%">
 <h3><a href="https://estix-weeb-hook.vercel.app/">Estix Webhook</a></h3>
@@ -216,10 +214,10 @@ E-commerce for selling <b>fresh & natural eggs</b> in Bogota with daily home del
 <br/><br/>
 Control panel for <b>webhook management</b> with user authentication and operations admin.
 <br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=next.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=fff" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=fff" />
 </td>
 </tr>
 <tr>
@@ -229,22 +227,22 @@ Control panel for <b>webhook management</b> with user authentication and operati
 <br/><br/>
 Modern logistics <b>dashboard</b> for metrics, tracking, and monitoring with control panel.
 <br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=next.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=fff" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=fff" />
 </td>
 <td align="center" width="50%">
 <h3>Coming Soon</h3>
 <img src="https://img.shields.io/badge/STATUS-IN_DEV-F59E0B?style=flat-square" />
 <br/><br/>
-<b>Estix Pedidos</b> — Order management<br/>
-<b>Sistema POS</b> — Point of sale<br/>
-<b>Productive Web</b> — Productivity app
+<b>Estix Pedidos</b> - Order management<br/>
+<b>Sistema POS</b> - Point of sale<br/>
+<b>Productive Web</b> - Productivity app
 <br/><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=fff" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=000" />
 </td>
 </tr>
 </table>
@@ -266,24 +264,24 @@ Modern logistics <b>dashboard</b> for metrics, tracking, and monitoring with con
 <div align="center">
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=EstiXD&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=EstiXD&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10" width="90%" />
 
 <br/><br/>
 
 <!-- Stats + Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstiXD&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=0d8fff&icon_color=38a8ff&text_color=ffffff&ring_color=0d8fff&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstiXD&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0a0a0a&amp;title_color=0d8fff&amp;icon_color=38a8ff&amp;text_color=ffffff&amp;ring_color=0d8fff&amp;count_private=true&amp;include_all_commits=true" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstiXD&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=0d8fff&text_color=ffffff&langs_count=8&hide=batchfile,shell,powershell,batch" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstiXD&amp;layout=compact&amp;hide_border=true&amp;bg_color=0a0a0a&amp;title_color=0d8fff&amp;text_color=ffffff&amp;langs_count=8&amp;hide=batchfile,shell,powershell,batch" />
 
 <br/><br/>
 
 <!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EstiXD&hide_border=true&background=0a0a0a&ring=0d8fff&fire=38a8ff&currStreakLabel=0d8fff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=0d8fff22" width="58%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=EstiXD&amp;hide_border=true&amp;background=0a0a0a&amp;ring=0d8fff&amp;fire=38a8ff&amp;currStreakLabel=0d8fff&amp;sideLabels=ffffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=888888&amp;stroke=0d8fff22" width="58%" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EstiXD&bg_color=0a0a0a&color=0d8fff&line=38a8ff&point=ffffff&area=true&area_color=0d8fff&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EstiXD&amp;bg_color=0a0a0a&amp;color=0d8fff&amp;line=38a8ff&amp;point=ffffff&amp;area=true&amp;area_color=0d8fff&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="95%" />
 
 </div>
 
@@ -297,7 +295,7 @@ Modern logistics <b>dashboard</b> for metrics, tracking, and monitoring with con
 
 <h2>
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="26" />&nbsp;
-  Education & Certifications
+  Education &amp; Certifications
 </h2>
 
 <div align="center">
@@ -305,20 +303,20 @@ Modern logistics <b>dashboard</b> for metrics, tracking, and monitoring with con
 <tr>
 <td align="center" width="50%">
 <br/>
-<img src="https://img.shields.io/badge/SENA-39A900?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SENA-39A900?style=for-the-badge&amp;logoColor=white" />
 <br/><br/>
 <b>Tecnico en Programacion de Software</b><br/>
 <sub>Servicio Nacional de Aprendizaje</sub><br/>
-<code>2023 - 2024</code> &bull; Certified
+<code>2023 - 2024</code> · Certified
 <br/><br/>
 </td>
 <td align="center" width="50%">
 <br/>
-<img src="https://img.shields.io/badge/Bachillerato-0d8fff?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Bachillerato-0d8fff?style=for-the-badge&amp;logoColor=white" />
 <br/><br/>
 <b>Colegio Villas del Progreso</b><br/>
 <sub>High School Diploma</sub><br/>
-<code>2023 - 2024</code> &bull; Graduated
+<code>2023 - 2024</code> · Graduated
 <br/><br/>
 </td>
 </tr>
@@ -343,14 +341,14 @@ Modern logistics <b>dashboard</b> for metrics, tracking, and monitoring with con
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/2023-0d8fff?style=flat-square" /><br/>
-<b>Variables y Estructuras — Python</b><br/>
+<b>Variables y Estructuras - Python</b><br/>
 <sub>SENA</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/2024-38a8ff?style=flat-square" /><br/>
-<b>Analisis Exploratorio — Python</b><br/>
+<b>Analisis Exploratorio - Python</b><br/>
 <sub>SENA</sub>
 </td>
 <td align="center">
@@ -384,7 +382,7 @@ Modern logistics <b>dashboard</b> for metrics, tracking, and monitoring with con
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/2023-0d8fff?style=flat-square" /><br/>
-<b>English Does Work — Level 2</b><br/>
+<b>English Does Work - Level 2</b><br/>
 <sub>SENA</sub>
 </td>
 <td align="center">
@@ -393,7 +391,7 @@ Modern logistics <b>dashboard</b> for metrics, tracking, and monitoring with con
 <sub>IBM SkillsBuild</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/∞-333?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/%E2%88%9E-333?style=flat-square" /><br/>
 <b>Always Learning</b><br/>
 <sub>Never Stop Growing</sub>
 </td>
@@ -418,30 +416,30 @@ Modern logistics <b>dashboard</b> for metrics, tracking, and monitoring with con
 <div align="center">
 
 <img src="https://img.shields.io/badge/1._Analyze-0d8fff?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/→-333?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/%E2%86%92-333?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/2._Design-1a9fff?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/→-333?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/%E2%86%92-333?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/3._Develop-28a8ff?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/→-333?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/%E2%86%92-333?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/4._Test-35b1ff?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/→-333?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/%E2%86%92-333?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/5._Deploy-42baff?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/→-333?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/%E2%86%92-333?style=for-the-badge" />&nbsp;
 <img src="https://img.shields.io/badge/6._Maintain-50c3ff?style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Agile-0095D5?style=for-the-badge&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Vibe_Coding-FF6B6B?style=for-the-badge&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&amp;logo=scrumalliance&amp;logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Agile-0095D5?style=for-the-badge&amp;logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Vibe_Coding-FF6B6B?style=for-the-badge&amp;logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
 
 </div>
 
 <br/>
 
 <!-- ============================================== -->
-<!-- SNAKE + CONNECT                                -->
+<!-- CONNECT + FOOTER                               -->
 <!-- ============================================== -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
@@ -458,10 +456,10 @@ Modern logistics <b>dashboard</b> for metrics, tracking, and monitoring with con
 
 <br/>
 
-<a href="mailto:estivencarvajalm@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://wa.me/3028462917"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/estiven-alejandro-carvajal-mu%C3%B1oz-1059474511e/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://estix-dev-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d8fff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:estivencarvajalm@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>&nbsp;
+<a href="https://wa.me/3028462917"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/estiven-alejandro-carvajal-mu%C3%B1oz-1059474511e/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;
+<a href="https://estix-dev-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d8fff?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
 
 <br/><br/>
 
@@ -474,7 +472,7 @@ Modern logistics <b>dashboard</b> for metrics, tracking, and monitoring with con
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Code%20it.%20Automate%20it.%20Ship%20it.&author=Estix" width="60%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=algolia&amp;quote=Code%20it.%20Automate%20it.%20Ship%20it.&amp;author=Estix" width="60%" />
 
 <br/><br/>
 
@@ -482,6 +480,6 @@ Modern logistics <b>dashboard</b> for metrics, tracking, and monitoring with con
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d8fff,100:38a8ff&height=130&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:0d8fff,100:38a8ff&amp;height=130&amp;section=footer" width="100%" />
 
 </div>
