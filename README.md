@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:0d8fff,100:38a8ff&amp;height=250&amp;section=header&amp;text=Estiven%20Carvajal&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20%C2%B7%20UX%2FUI%20Designer%20%C2%B7%20AI-Driven%20Automation&amp;descSize=18&amp;descAlignY=52&amp;descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:0d8fff,100:38a8ff&amp;height=250&amp;section=header&amp;text=Estiven%20Carvajal&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Building%20web%2C%20Android%20%26%20AI%20products%20from%20Colombia&amp;descSize=18&amp;descAlignY=52&amp;descAlign=50" width="100%" />
 
 <a href="https://estix.dev">
   <picture>
@@ -16,9 +16,7 @@
 
 <br/><br/>
 
-<a href="https://estix.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=0D8FFF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=%F0%9F%9A%80+12%2B+products+live+in+production;%F0%9F%A4%96+AI-driven+automation+%26+agents;%F0%9F%93%B1+Android+apps+with+Capacitor;%F0%9F%8E%A8+UX%2FUI+that+ships;%F0%9F%8C%8E+estix.dev+%7C+Open+to+work" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=0D8FFF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=%F0%9F%9A%80+Web+apps+%C2%B7+Android+APKs+%C2%B7+AI+agents;%F0%9F%9B%A0+From+wireframe+to+production;%F0%9F%8C%8E+Based+in+Colombia+%C2%B7+Remote+ready" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -31,7 +29,6 @@
 <a href="https://estix.dev"><img src="https://img.shields.io/badge/-estix.dev-0d8fff?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/estiven-alejandro-carvajal-mu%C3%B1oz-1059474511e/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;
 <a href="mailto:estivencarvajalm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>&nbsp;
-<a href="https://github.com/EstiXD"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>&nbsp;
 <a href="https://wa.me/573028462917"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" /></a>
 
 </div>
@@ -42,9 +39,9 @@
 <!-- ABOUT ME                                       -->
 <!-- ============================================== -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+<img src="./img/divider.svg" width="100%" />
 
-<h2>
+<h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" />&nbsp;
   About Me
 </h2>
@@ -58,14 +55,12 @@ const estix = {
     name      : "Estiven Alejandro Carvajal Muñoz",
     alias     : "Estix",
     location  : "Colombia 🇨🇴",
-    site      : "https://estix.dev",
     roles     : ["Full Stack Developer", "UX/UI Designer",
                  "AI-Driven Automator", "Android Apps"],
     stack     : ["TypeScript", "JavaScript", "Python", "SQL"],
     tools     : ["Next.js", "React", "Astro", "Node.js",
                  "PostgreSQL", "Tailwind", "Capacitor",
                  "n8n", "Claude Code"],
-    shipped   : "12+ products live in production",
     motto     : "Code it. Automate it. Ship it."
 };
 ```
@@ -73,13 +68,13 @@ const estix = {
 </td>
 <td width="45%">
 
-I design and build **complete products**: web apps with **Next.js / React / Astro**, **Android apps** with Capacitor, and **AI-driven automation** with agents, n8n and Claude Code.
+I build **complete products**: web with **Next.js / React / Astro**, **Android** with Capacitor, and automation with **AI agents**, n8n and Claude Code.
 
-Solid foundations in **PostgreSQL**, **RESTful APIs** and **UX/UI design** — from the first wireframe to production, deployed on **Vercel** and **Cloudflare**.
+&#9656; &nbsp;**12+** products live — music, AI tooling, e-commerce, logistics &amp; fintech
+<br/>&#9656; &nbsp;**4** Android apps shipped
+<br/>&#9656; &nbsp;**PostgreSQL · REST APIs · UX/UI** from first wireframe to deploy
 
-**12+ live products** — music, AI creative tooling, e-commerce, logistics and fintech. All at **[estix.dev](https://estix.dev)**.
-
-**Always learning. Always shipping.**
+Everything at **[estix.dev](https://estix.dev)** — always learning, always shipping.
 
 </td>
 </tr>
@@ -91,9 +86,9 @@ Solid foundations in **PostgreSQL**, **RESTful APIs** and **UX/UI design** — f
 <!-- TECH STACK                                     -->
 <!-- ============================================== -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+<img src="./img/divider.svg" width="100%" />
 
-<h2>
+<h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="26" />&nbsp;
   Tech Stack
 </h2>
@@ -150,10 +145,6 @@ Solid foundations in **PostgreSQL**, **RESTful APIs** and **UX/UI design** — f
 
 <br/>
 
-**Mobile &amp; AI**
-
-<br/>
-
 <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&amp;logo=capacitor&amp;logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&amp;logo=android&amp;logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white" />&nbsp;
@@ -163,31 +154,15 @@ Solid foundations in **PostgreSQL**, **RESTful APIs** and **UX/UI design** — f
 
 </div>
 
-<details>
-<summary align="center"><b>&nbsp;&nbsp;View Skill Levels&nbsp;&nbsp;</b></summary>
-<br/>
-
-| Technology | Level | | Technology | Level |
-|:---|:---|:---|:---|:---|
-| HTML5 | ![90%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91-0d8fff?style=flat-square) **90%** | | Tailwind CSS | ![80%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** |
-| JavaScript | ![85%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **85%** | | Next.js | ![75%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-38a8ff?style=flat-square) **75%** |
-| CSS3 | ![85%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **85%** | | React | ![65%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91-38a8ff?style=flat-square) **65%** |
-| Python | ![80%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** | | GitHub | ![85%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **85%** |
-| TypeScript | ![75%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-38a8ff?style=flat-square) **75%** | | Vercel | ![80%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** |
-| SQL | ![80%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** | | RESTful APIs | ![80%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** |
-| Node.js | ![80%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91-0d8fff?style=flat-square) **80%** | | n8n | ![70%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91-38a8ff?style=flat-square) **70%** |
-
-</details>
-
 <br/>
 
 <!-- ============================================== -->
 <!-- FEATURED PROJECTS                              -->
 <!-- ============================================== -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+<img src="./img/divider.svg" width="100%" />
 
-<h2>
+<h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26" />&nbsp;
   Featured Projects
 </h2>
@@ -197,25 +172,21 @@ Solid foundations in **PostgreSQL**, **RESTful APIs** and **UX/UI design** — f
 <tr>
 <td align="center" width="50%">
 <h3><a href="https://soundlix.estix.dev">Soundlix</a></h3>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
-<img src="https://img.shields.io/badge/%F0%9F%93%B1-ANDROID_APK-34A853?style=flat-square" />
+<img src="https://img.shields.io/badge/LIVE-ANDROID_APK-34A853?style=flat-square&amp;labelColor=00C853" />
 <br/><br/>
-Modern music player — <b>free and ad-free</b>, with synced lyrics, infinite radio, jam sessions and TV mode. Web, PWA &amp; Android.
+Free, ad-free <b>music player</b> with synced lyrics, infinite radio and TV mode.
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=nextdotjs" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=fff" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=fff" />
 <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&amp;logo=capacitor&amp;logoColor=fff" />
 </td>
 <td align="center" width="50%">
 <h3><a href="https://www.getadastra.app">Adastra</a></h3>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
-<img src="https://img.shields.io/badge/%E2%9C%A6-AI_STUDIO-8E75B2?style=flat-square" />
+<img src="https://img.shields.io/badge/LIVE-AI_STUDIO-8E75B2?style=flat-square&amp;labelColor=00C853" />
 <br/><br/>
-AI creative studio: a <b>brief goes in, an ad comes out</b> — on-brand images &amp; video ready to publish, with editable AI layers.
+A brief goes in, an <b>on-brand ad</b> comes out — AI images &amp; video with editable layers.
 <br/><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=fff" />
 <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&amp;logo=hono&amp;logoColor=fff" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=fff" />
 </td>
@@ -223,9 +194,9 @@ AI creative studio: a <b>brief goes in, an ad comes out</b> — on-brand images 
 <tr>
 <td align="center" width="50%">
 <h3><a href="https://transcritube.estix.dev">TranscriTube</a></h3>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/LIVE-AI_TOOL-8E75B2?style=flat-square&amp;labelColor=00C853" />
 <br/><br/>
-Transcribe <b>YouTube videos to text for free</b> — AI fallback pipeline and export to MD, TXT, DOCX &amp; PDF.
+<b>YouTube videos to text</b> for free — AI pipeline, export to MD, TXT, DOCX &amp; PDF.
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=nextdotjs" />
 <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&amp;logo=deepgram&amp;logoColor=000" />
@@ -233,9 +204,9 @@ Transcribe <b>YouTube videos to text for free</b> — AI fallback pipeline and e
 </td>
 <td align="center" width="50%">
 <h3><a href="https://vendy.estix.dev">Vendy</a></h3>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/-LIVE-00C853?style=flat-square" />
 <br/><br/>
-Create your <b>online store in minutes</b> — products, orders and a beautiful storefront without code.
+Create your <b>online store in minutes</b> — products, orders and storefront.
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=nextdotjs" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000" />
@@ -245,10 +216,9 @@ Create your <b>online store in minutes</b> — products, orders and a beautiful 
 <tr>
 <td align="center" width="50%">
 <h3><a href="https://birthdaylink.estix.dev">Birthday Link</a></h3>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
-<img src="https://img.shields.io/badge/%F0%9F%93%B1-ANDROID_APK-34A853?style=flat-square" />
+<img src="https://img.shields.io/badge/LIVE-ANDROID_APK-34A853?style=flat-square&amp;labelColor=00C853" />
 <br/><br/>
-<b>Never miss a birthday</b> — reminders with push &amp; email notifications. Web + Android app.
+<b>Never miss a birthday</b> — push &amp; email reminders.
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=nextdotjs" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=fff" />
@@ -256,9 +226,9 @@ Create your <b>online store in minutes</b> — products, orders and a beautiful 
 </td>
 <td align="center" width="50%">
 <h3><a href="https://voice-prompter-nu.vercel.app">Voice Prompter</a></h3>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/-LIVE-00C853?style=flat-square" />
 <br/><br/>
-Teleprompter that <b>follows your voice</b> in real time — Markdown scripts and export to 6 formats.
+Teleprompter that <b>follows your voice</b> — Markdown scripts, 6 export formats.
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=nextdotjs" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=fff" />
@@ -268,19 +238,18 @@ Teleprompter that <b>follows your voice</b> in real time — Markdown scripts an
 <tr>
 <td align="center" width="50%">
 <h3><a href="https://cudo.lat">Cudo</a></h3>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/LIVE-INSURTECH-0d8fff?style=flat-square&amp;labelColor=00C853" />
 <br/><br/>
-<b>Shipping protection for Mexico</b> — coverage against theft, damage and loss from 0.75% of declared value.
+<b>Shipping protection for Mexico</b> — theft, damage &amp; loss from 0.75% of declared value.
 <br/><br/>
 <img src="https://img.shields.io/badge/REST_API-0d8fff?style=flat-square" />
 <img src="https://img.shields.io/badge/Webhooks-333?style=flat-square" />
-<img src="https://img.shields.io/badge/Insurtech-00C853?style=flat-square" />
 </td>
 <td align="center" width="50%">
 <h3><a href="https://socios.skydropx.com">Socios Skydropx</a></h3>
-<img src="https://img.shields.io/badge/STATUS-PRODUCTION-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/-PRODUCTION-00C853?style=flat-square" />
 <br/><br/>
-<b>Partner program platform</b> running in production at Skydropx — referrals, metrics and payouts.
+<b>Partner program</b> at Skydropx — referrals, metrics and payouts.
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=nextdotjs" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=fff" />
@@ -290,10 +259,9 @@ Teleprompter that <b>follows your voice</b> in real time — Markdown scripts an
 <tr>
 <td align="center" width="50%">
 <h3><a href="https://dashboard-ia-skydropx.vercel.app">LuIsA — AI QA Dashboard</a></h3>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
-<img src="https://img.shields.io/badge/%E2%9C%A6-AI_AGENT-8E75B2?style=flat-square" />
+<img src="https://img.shields.io/badge/LIVE-AI_AGENT-8E75B2?style=flat-square&amp;labelColor=00C853" />
 <br/><br/>
-AI agent that <b>audits sales &amp; support conversations</b> across call, email and WhatsApp with scoring rubrics.
+AI agent <b>auditing sales conversations</b> across call, email &amp; WhatsApp.
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=nextdotjs" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=fff" />
@@ -301,9 +269,9 @@ AI agent that <b>audits sales &amp; support conversations</b> across call, email
 </td>
 <td align="center" width="50%">
 <h3><a href="https://wl-logistics.vercel.app">WL Logistics</a></h3>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/-LIVE-00C853?style=flat-square" />
 <br/><br/>
-Modern <b>logistics dashboard</b> — shipment guides, tracking and money movement per transaction.
+<b>Logistics dashboard</b> — guides, tracking and money movement per transaction.
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=nextdotjs" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=fff" />
@@ -313,9 +281,9 @@ Modern <b>logistics dashboard</b> — shipment guides, tracking and money moveme
 <tr>
 <td align="center" width="50%">
 <h3><a href="https://club-skydropx.vercel.app">Club Skydropx</a></h3>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/-LIVE-00C853?style=flat-square" />
 <br/><br/>
-<b>Benefits club</b> for Skydropx users — rewards and perks platform.
+<b>Benefits &amp; rewards club</b> for Skydropx users.
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=nextdotjs" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000" />
@@ -323,10 +291,9 @@ Modern <b>logistics dashboard</b> — shipment guides, tracking and money moveme
 </td>
 <td align="center" width="50%">
 <h3><a href="https://huevosemicriollos.vercel.app">Huevos Semicriollos</a></h3>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=flat-square" />
-<img src="https://img.shields.io/badge/%F0%9F%93%B1-ANDROID_APP-34A853?style=flat-square" />
+<img src="https://img.shields.io/badge/LIVE-ANDROID_APP-34A853?style=flat-square&amp;labelColor=00C853" />
 <br/><br/>
-<b>Admin panel &amp; POS</b> for a fresh-eggs delivery business in Bogotá — orders, clients and daily routes. Includes Android app.
+<b>Admin &amp; POS</b> for a fresh-eggs delivery business in Bogotá.
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=nextdotjs" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000" />
@@ -337,15 +304,11 @@ Modern <b>logistics dashboard</b> — shipment guides, tracking and money moveme
 
 <br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%93%B1_Android_builds-Soundlix_%C2%B7_Birthday_Link_%C2%B7_Balboa_Stereo_%C2%B7_Huevos_Semicriollos-34A853?style=for-the-badge&amp;labelColor=0a0a0a" />
-
-<br/><br/>
-
 <table>
 <tr>
 <td align="center" width="50%">
 <h3>TaskingX</h3>
-<img src="https://img.shields.io/badge/STATUS-IN_DEV-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/-IN_DEV-F59E0B?style=flat-square" />
 <br/><br/>
 <b>Voice-first task manager</b> — capture and organize tasks by speaking.
 <br/><br/>
@@ -355,7 +318,7 @@ Modern <b>logistics dashboard</b> — shipment guides, tracking and money moveme
 </td>
 <td align="center" width="50%">
 <h3>Aura</h3>
-<img src="https://img.shields.io/badge/STATUS-IN_DEV-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/-IN_DEV-F59E0B?style=flat-square" />
 <br/><br/>
 <b>Perfume catalog</b> — fast, edge-rendered product experience.
 <br/><br/>
@@ -378,16 +341,15 @@ Modern <b>logistics dashboard</b> — shipment guides, tracking and money moveme
 <!-- GITHUB ANALYTICS                               -->
 <!-- ============================================== -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+<img src="./img/divider.svg" width="100%" />
 
-<h2>
+<h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="26" />&nbsp;
   GitHub Analytics
 </h2>
 
 <div align="center">
 
-<!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=EstiXD&amp;hide_border=true&amp;background=0a0a0a&amp;ring=0d8fff&amp;fire=38a8ff&amp;currStreakLabel=0d8fff&amp;sideLabels=ffffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=888888&amp;stroke=0d8fff22&amp;disable_animations=true" width="58%" />
 
 <br/><br/>
@@ -407,9 +369,9 @@ Modern <b>logistics dashboard</b> — shipment guides, tracking and money moveme
 <!-- EDUCATION & CERTIFICATIONS                     -->
 <!-- ============================================== -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+<img src="./img/divider.svg" width="100%" />
 
-<h2>
+<h2 align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="26" />&nbsp;
   Education &amp; Certifications
 </h2>
@@ -539,12 +501,12 @@ Modern <b>logistics dashboard</b> — shipment guides, tracking and money moveme
 <br/>
 
 <!-- ============================================== -->
-<!-- WORKFLOW                                        -->
+<!-- WORKFLOW + FOOTER                              -->
 <!-- ============================================== -->
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+<img src="./img/divider.svg" width="100%" />
 
-<h2>
+<h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26" />&nbsp;
   How I Work
 </h2>
@@ -566,44 +528,17 @@ Modern <b>logistics dashboard</b> — shipment guides, tracking and money moveme
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&amp;logo=scrumalliance&amp;logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Agile-0095D5?style=for-the-badge&amp;logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/AI--Driven-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
 
-</div>
+<br/><br/><br/>
 
-<br/>
+<p><b>Open to collaborations, freelance work and full-time roles.</b></p>
 
-<!-- ============================================== -->
-<!-- CONNECT + FOOTER                               -->
-<!-- ============================================== -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
-
-<div align="center">
-
-<h2>
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="36" />&nbsp;
-  Let's Connect!
-</h2>
-
-<p><b>Open to collaborations, freelance work, and exciting projects.</b></p>
-<p>Web · Android · Automation · AI — let's build something amazing together!</p>
-
-<br/>
-
-<a href="mailto:estivencarvajalm@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>&nbsp;
-<a href="https://wa.me/573028462917"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/estiven-alejandro-carvajal-mu%C3%B1oz-1059474511e/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;
-<a href="https://estix.dev"><img src="https://img.shields.io/badge/Portfolio-estix.dev-0d8fff?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
+<a href="mailto:estivencarvajalm@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-estivencarvajalm@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=algolia&amp;quote=Code%20it.%20Automate%20it.%20Ship%20it.&amp;author=Estix" width="60%" />
-
-<br/><br/>
-
-<sub>Made with lots of coffee and passion by <b>Estiven Carvajal</b> · <a href="https://estix.dev">estix.dev</a></sub>
+<sub>Made with lots of coffee and passion by <b>Estiven Carvajal</b></sub>
 
 <br/><br/>
 
