@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:0d8fff,100:38a8ff&amp;height=250&amp;section=header&amp;text=Estiven%20Carvajal&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Building%20web%2C%20Android%20%26%20AI%20products%20from%20Colombia&amp;descSize=18&amp;descAlignY=52&amp;descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:0d8fff,100:38a8ff&amp;height=250&amp;section=header&amp;text=Estiven%20Carvajal&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Building%20web%2C%20Android%20%26%20AI%20products%20from%20Colombia&amp;descSize=18&amp;descAlignY=52&amp;descAlign=50&amp;t=2" width="100%" />
 
 <a href="https://estix.dev">
   <picture>
