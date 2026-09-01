@@ -4,15 +4,7 @@
 
 <div align="center">
 
-<img src="./img/banner.svg" alt="Estiven Carvajal — Building web, Android &amp; AI products from Colombia" width="100%" />
-
-<a href="https://estix.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/estix-logo-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./img/estix-logo-light.svg" />
-    <img src="./img/estix-logo-dark.svg" alt="ESTIX — Developer · Designer · AI-Driven" width="440" />
-  </picture>
-</a>
+<a href="https://estix.dev"><img src="./img/banner.svg" alt="ESTIX — Full Stack · UX/UI · AI-Driven · Android" width="100%" /></a>
 
 <br/><br/>
 
@@ -68,13 +60,14 @@ const estix = {
 </td>
 <td width="45%">
 
-I build **complete products**: web with **Next.js / React / Astro**, **Android** with Capacitor, and automation with **AI agents**, n8n and Claude Code.
+I build **complete products**: web with **Next.js / React / Astro**, **Android** with Capacitor, backed by **PostgreSQL** and REST APIs — from first wireframe to deploy.
+
+Since 2024 my workflow is **AI-driven**: Claude Code, Copilot and local models speed up design, code, tests and docs. The engineering judgment stays mine.
 
 &#9656; &nbsp;**12+** products live — music, AI tooling, e-commerce, logistics &amp; fintech
-<br/>&#9656; &nbsp;**4** Android apps shipped
-<br/>&#9656; &nbsp;**PostgreSQL · REST APIs · UX/UI** from first wireframe to deploy
+<br/>&#9656; &nbsp;**4** Android apps shipped · clients like **Skydropx**
 
-Everything at **[estix.dev](https://estix.dev)** — always learning, always shipping.
+Everything at **[estix.dev](https://estix.dev)**.
 
 </td>
 </tr>
@@ -233,6 +226,8 @@ Teleprompter that <b>follows your voice</b> — Markdown scripts, 6 export forma
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&amp;logo=nextdotjs" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=fff" />
 <img src="https://img.shields.io/badge/Web_Speech_API-0d8fff?style=flat-square" />
+<br/><br/>
+<a href="https://github.com/EstiXD/voice-prompter"><img src="https://img.shields.io/badge/-Source_Code-181717?style=flat-square&amp;logo=github" /></a>
 </td>
 </tr>
 <tr>
@@ -332,6 +327,10 @@ AI agent <b>auditing sales conversations</b> across call, email &amp; WhatsApp.
 <br/>
 
 <a href="https://estix.dev"><img src="https://img.shields.io/badge/See_everything_at-estix.dev-0d8fff?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
+
+<br/><br/>
+
+<sub>Most product repos are private (client &amp; production work) — <a href="https://github.com/EstiXD/voice-prompter">Voice Prompter</a> is public; code walkthrough available on request.</sub>
 
 </div>
 

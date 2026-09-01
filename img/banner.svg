@@ -1,4 +1,4 @@
-<svg width="1280" height="250" viewBox="0 0 1280 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Estiven Carvajal — Building web, Android and AI products from Colombia">
+<svg width="1280" height="250" viewBox="0 0 1280 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ESTIX — Full Stack · UX/UI · AI-Driven · Android">
   <defs>
     <radialGradient id="bg" cx="0.5" cy="0.38" r="0.95">
       <stop offset="0" stop-color="#0b1c38"/>
@@ -10,6 +10,10 @@
       <stop offset="0.6" stop-color="#0d8fff" stop-opacity="0.10"/>
       <stop offset="1" stop-color="#0d8fff" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="gx" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d8fff"/>
+      <stop offset="1" stop-color="#38d0ff"/>
+    </linearGradient>
     <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#0d8fff"/>
       <stop offset="1" stop-color="#38d0ff"/>
@@ -25,8 +29,8 @@
 
   <rect width="1280" height="250" fill="url(#bg)"/>
 
-  <!-- aura electrica detras del nombre, como la del avatar -->
-  <ellipse cx="640" cy="112" rx="360" ry="86" fill="url(#aura)"/>
+  <!-- aura electrica detras del wordmark -->
+  <ellipse cx="640" cy="105" rx="340" ry="82" fill="url(#aura)"/>
 
   <!-- chispas -->
   <g fill="#8fe3ff">
@@ -55,17 +59,17 @@
     </circle>
   </g>
 
-  <!-- nombre con resplandor -->
-  <text x="640" y="110" text-anchor="middle"
+  <!-- wordmark con resplandor -->
+  <text x="640" y="112" text-anchor="middle"
         font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif"
-        font-size="54" font-weight="800" letter-spacing="1"
-        fill="#38d0ff" opacity="0.85" filter="url(#soft)">Estiven Carvajal</text>
-  <text x="640" y="110" text-anchor="middle"
+        font-size="64" font-weight="800" letter-spacing="12"
+        fill="#38d0ff" opacity="0.85" filter="url(#soft)">ESTIX</text>
+  <text x="640" y="112" text-anchor="middle"
         font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif"
-        font-size="54" font-weight="800" letter-spacing="1" fill="#ffffff">Estiven Carvajal</text>
-  <text x="640" y="150" text-anchor="middle"
+        font-size="64" font-weight="800" letter-spacing="12" fill="#f2f7ff">EST<tspan fill="#f2f7ff">I</tspan><tspan fill="url(#gx)">X</tspan></text>
+  <text x="640" y="152" text-anchor="middle"
         font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif"
-        font-size="19" font-weight="500" letter-spacing="1.5" fill="#9fc5e8">Building web, Android &amp; AI products from Colombia</text>
+        font-size="17" font-weight="600" letter-spacing="4" fill="#9fc5e8">FULL STACK · UX/UI · AI-DRIVEN · ANDROID</text>
 
   <!-- olas -->
   <path d="M0 205 Q 160 165 320 205 T 640 205 T 960 205 T 1280 205 T 1600 205 T 1920 205 T 2240 205 T 2560 205 V 260 H 0 Z" fill="url(#w2)" opacity="0.35">
