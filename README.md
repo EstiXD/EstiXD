@@ -388,7 +388,7 @@ Modern <b>logistics dashboard</b> — shipment guides, tracking and money moveme
 <div align="center">
 
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=EstiXD&amp;hide_border=true&amp;background=0a0a0a&amp;ring=0d8fff&amp;fire=38a8ff&amp;currStreakLabel=0d8fff&amp;sideLabels=ffffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=888888&amp;stroke=0d8fff22" width="58%" />
+<img src="https://streak-stats.demolab.com?user=EstiXD&amp;hide_border=true&amp;background=0a0a0a&amp;ring=0d8fff&amp;fire=38a8ff&amp;currStreakLabel=0d8fff&amp;sideLabels=ffffff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=888888&amp;stroke=0d8fff22&amp;disable_animations=true" width="58%" />
 
 <br/><br/>
 
