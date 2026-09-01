@@ -1,0 +1,15 @@
+<svg width="620" height="130" viewBox="0 0 620 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ESTIX — Developer, Designer, AI-Driven">
+  <defs>
+    <linearGradient id="gx" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d8fff"/>
+      <stop offset="1" stop-color="#38d0ff"/>
+    </linearGradient>
+  </defs>
+  <text x="310" y="66" text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif"
+        font-size="62" font-weight="800" letter-spacing="10" fill="#f2f7ff">EST<tspan fill="#f2f7ff">I</tspan><tspan fill="url(#gx)">X</tspan></text>
+  <rect x="180" y="84" width="260" height="3" rx="1.5" fill="url(#gx)" opacity="0.85"/>
+  <text x="310" y="112" text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Ubuntu, Arial, sans-serif"
+        font-size="15" font-weight="600" letter-spacing="4.5" fill="#8aa6bf">DEVELOPER · DESIGNER · AI-DRIVEN</text>
+</svg>
