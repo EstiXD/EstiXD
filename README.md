@@ -381,10 +381,10 @@ AI agent <b>auditing sales conversations</b> across call, email &amp; WhatsApp.
 <tr>
 <td align="center" width="50%">
 <br/>
-<img src="https://img.shields.io/badge/En_curso-F59E0B?style=for-the-badge&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/IU_Digital_%C2%B7_En_curso-F59E0B?style=for-the-badge&amp;logoColor=white" />
 <br/><br/>
 <b>Ingeniería de Software y Datos</b><br/>
-<sub>Pregrado universitario</sub><br/>
+<sub>IU Digital de Antioquia</sub><br/>
 <code>En desarrollo</code> · In progress
 <br/><br/>
 </td>

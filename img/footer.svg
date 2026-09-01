@@ -1,9 +1,10 @@
 <svg width="1280" height="120" viewBox="0 0 1280 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer wave">
   <defs>
-    <linearGradient id="fb" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0a1220"/>
-      <stop offset="1" stop-color="#05070d"/>
-    </linearGradient>
+    <radialGradient id="fb" cx="0.5" cy="0.75" r="1">
+      <stop offset="0" stop-color="#0b1c38"/>
+      <stop offset="0.6" stop-color="#071120"/>
+      <stop offset="1" stop-color="#04060c"/>
+    </radialGradient>
     <linearGradient id="f1" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#0d8fff"/>
       <stop offset="1" stop-color="#38d0ff"/>
@@ -19,7 +20,9 @@
   <path d="M0 45 Q 160 82 320 45 T 640 45 T 960 45 T 1280 45 T 1600 45 T 1920 45 T 2240 45 T 2560 45 V 0 H 0 Z" fill="url(#f2)" opacity="0.35">
     <animateTransform attributeName="transform" type="translate" from="-1280 0" to="0 0" dur="14s" repeatCount="indefinite"/>
   </path>
-  <path d="M0 35 Q 160 68 320 35 T 640 35 T 960 35 T 1280 35 T 1600 35 T 1920 35 T 2240 35 T 2560 35 V 0 H 0 Z" fill="url(#f1)">
+  <g>
+    <path d="M0 35 Q 160 68 320 35 T 640 35 T 960 35 T 1280 35 T 1600 35 T 1920 35 T 2240 35 T 2560 35 V 0 H 0 Z" fill="url(#f1)"/>
+    <path d="M0 35 Q 160 68 320 35 T 640 35 T 960 35 T 1280 35 T 1600 35 T 1920 35 T 2240 35 T 2560 35" fill="none" stroke="#b8ecff" stroke-width="2" opacity="0.55"/>
     <animateTransform attributeName="transform" type="translate" from="0 0" to="-1280 0" dur="10s" repeatCount="indefinite"/>
-  </path>
+  </g>
 </svg>
